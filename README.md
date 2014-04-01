@@ -1,0 +1,1 @@
+Provides frequently asked questions
